@@ -4418,3 +4418,8 @@ figcaption {
   font-style: normal;
   font-display: swap;
 }
+.contra-hire-me-button {
+  position: absolute;
+  right: 40px;
+  bottom: 40px;
+}
